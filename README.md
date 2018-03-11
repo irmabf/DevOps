@@ -16,7 +16,7 @@ Se puede acceder a la app aquí [http://node.irmablanco.net/users/login]
 
 Se puede acceder al logo aquí, [http://node.irmablanco.net/img/logo.jpg], no hace falta estar auténticado para visualizar el logo, ya que se muestra en el formulario de registro.
 
-Para probar el  funcionamiento de la app podemos ir a SignUp y crear un usario [http://node.irmablanco.net/users/register] o ir a login [http://node.irmablanco.net/users/login]y utilizar el usuario ya creado **devops@example.com** con password **12345** , al hacer login con este usuario podemos ver las ideas ya creadas por este, editarlas, crear más etc. De la manera en la que está diseñada, cada usuario sólo
+Para probar el  funcionamiento de la app podemos ir a SignUp y crear un usario [http://node.irmablanco.net/users/register] o ir a login [http://node.irmablanco.net/users/login] y utilizar el usuario ya creado **devops@example.com** con password **12345** , al hacer login con este usuario podemos ver las ideas ya creadas por este, editarlas, crear más etc. De la manera en la que está diseñada, cada usuario sólo
 puede ver y editar sus propias ideas, por lo que si creamos uno nuevo no veremos nada hasta que no lo creemos.
 
 ## Punto 2
