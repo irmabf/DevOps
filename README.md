@@ -4,7 +4,7 @@
 Para esta práctica he utilizado un theme de https://startbootstrap.com y, en lugar de utilizar la aplicación de node y mongo desarrollada en el Módulo de Node del Bootcamp, he utilizado otra aplicación de creación propia también creada con node,
 mongo y express pero con interfaz de Front End para facilitar la labor en la práctica, ya que la api creada en el bootcamp es una api para utilizar con ios y no le he desarrollado de momento ningún front end. 
 
-La aplicación utilizada es una web-app simple pero con funcionalizades CRUD, auténticación y UI creada con bootstrap. Se puede encontrar en este mismo github, con el nombre IdeasApp, 
+La aplicación utilizada es una web-app simple pero con funcionalidades CRUD, auténticación y UI creada con bootstrap. Se puede encontrar en este mismo perfil de github, con el nombre IdeasApp, 
 
 [https://github.com/irmabf/IdeasApp]
 
